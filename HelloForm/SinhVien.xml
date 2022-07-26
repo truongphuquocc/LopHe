@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <SinhVien MaSinhVien="19T1021210">
+    <HoDem>Trương Phú</HoDem>
+    <Ten>Quôc</Ten>
+    <NgaySinh>12/22/2001 8:42:47 PM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>Quảng Trị</NoiSinh>
+    <QueQuan>Đắk Nông</QueQuan>
+    <SoDienThoai>0368197317</SoDienThoai>
+    <Email>19T1021201@husc.edu.vn</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="321">
+    <HoDem>31</HoDem>
+    <Ten>312</Ten>
+    <NgaySinh>7/20/2022 8:38:59 AM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>312</NoiSinh>
+    <QueQuan>312</QueQuan>
+    <SoDienThoai>312</SoDienThoai>
+    <Email>312</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="3121">
+    <HoDem>312</HoDem>
+    <Ten>31</Ten>
+    <NgaySinh>7/20/2022 8:40:21 AM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>321</NoiSinh>
+    <QueQuan>2131</QueQuan>
+    <SoDienThoai>321312321</SoDienThoai>
+    <Email>3123123</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="31">
+    <HoDem>312</HoDem>
+    <Ten>312</Ten>
+    <NgaySinh>7/20/2022 8:41:10 AM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>213</NoiSinh>
+    <QueQuan>321</QueQuan>
+    <SoDienThoai>31</SoDienThoai>
+    <Email>123</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="3123111">
+    <HoDem>32131</HoDem>
+    <Ten>321321</Ten>
+    <NgaySinh>7/20/2022 8:57:14 AM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>312321</NoiSinh>
+    <QueQuan>312312</QueQuan>
+    <SoDienThoai>12312</SoDienThoai>
+    <Email>12312</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="1323123">
+    <HoDem>312321</HoDem>
+    <Ten>321312</Ten>
+    <NgaySinh>7/20/2022 8:57:48 AM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>12312312</NoiSinh>
+    <QueQuan>3123213</QueQuan>
+    <SoDienThoai>3213123</SoDienThoai>
+    <Email>3123123</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="42342">
+    <HoDem>42342</HoDem>
+    <Ten>432432</Ten>
+    <NgaySinh>7/20/2022 8:58:33 AM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>432423</NoiSinh>
+    <QueQuan>243432</QueQuan>
+    <SoDienThoai>23423</SoDienThoai>
+    <Email>423432</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="31211">
+    <HoDem>312</HoDem>
+    <Ten>312</Ten>
+    <NgaySinh>7/20/2022 9:39:57 AM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>3123</NoiSinh>
+    <QueQuan>312312</QueQuan>
+    <SoDienThoai>312312</SoDienThoai>
+    <Email>312321</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="19T1021201">
+    <HoDem>Trương Phú</HoDem>
+    <Ten>Quốc</Ten>
+    <NgaySinh>12/22/2001 4:02:47 PM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>Quảng Trị</NoiSinh>
+    <QueQuan>Đắk Nông</QueQuan>
+    <SoDienThoai>0368197317</SoDienThoai>
+    <Email>quoct@gmail.com</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="19T1021202">
+    <HoDem>Trương Phú</HoDem>
+    <Ten>Quốc</Ten>
+    <NgaySinh>12/22/2001 4:02:47 PM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>Quảng Trị</NoiSinh>
+    <QueQuan>Đắk Nông</QueQuan>
+    <SoDienThoai>0368197317</SoDienThoai>
+    <Email>quoct@gmail.com</Email>
+  </SinhVien>
+  <SinhVien MaSinhVien="19t1021201">
+    <HoDem>Trương Phú</HoDem>
+    <Ten>Quốc</Ten>
+    <NgaySinh>7/20/2022 4:05:38 PM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>Quảng Trị</NoiSinh>
+    <QueQuan>Đắk Nông</QueQuan>
+    <SoDienThoai>0368197317</SoDienThoai>
+    <Email>19T1021201@husc.edu.vn</Email>
+  </SinhVien>
+</Students>
