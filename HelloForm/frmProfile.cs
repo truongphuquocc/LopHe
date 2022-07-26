@@ -18,7 +18,6 @@ namespace HelloForm
         List<SinhVien> sinhVienList = new List<SinhVien>();
         string path = @"SinhVien.txt";
         string fXml = @"../../SinhVien.xml";
-        //XDocument xd = XDocument.Load(fXml);'
         private XDocument xd1;
 
         public frmProfile()
