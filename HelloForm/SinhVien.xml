@@ -50,26 +50,6 @@
     <SoDienThoai>12312</SoDienThoai>
     <Email>12312</Email>
   </SinhVien>
-  <SinhVien MaSinhVien="1323123">
-    <HoDem>312321</HoDem>
-    <Ten>321312</Ten>
-    <NgaySinh>7/20/2022 8:57:48 AM</NgaySinh>
-    <GioiTinh>Nam</GioiTinh>
-    <NoiSinh>12312312</NoiSinh>
-    <QueQuan>3123213</QueQuan>
-    <SoDienThoai>3213123</SoDienThoai>
-    <Email>3123123</Email>
-  </SinhVien>
-  <SinhVien MaSinhVien="42342">
-    <HoDem>42342</HoDem>
-    <Ten>432432</Ten>
-    <NgaySinh>7/20/2022 8:58:33 AM</NgaySinh>
-    <GioiTinh>Nam</GioiTinh>
-    <NoiSinh>432423</NoiSinh>
-    <QueQuan>243432</QueQuan>
-    <SoDienThoai>23423</SoDienThoai>
-    <Email>423432</Email>
-  </SinhVien>
   <SinhVien MaSinhVien="31211">
     <HoDem>312</HoDem>
     <Ten>312</Ten>
