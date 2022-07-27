@@ -10,9 +10,6 @@ namespace Hello
 {
     class Program
     {
-
-
-
         static void Main(string[] args)
         {
             //string textFile = @"SinhVien.txt";
