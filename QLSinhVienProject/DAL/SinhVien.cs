@@ -12,11 +12,9 @@ namespace QLSinhVienProject.DAL
         [StringLength(50)]
         public string ID { get; set; }
 
-        [Required]
         [StringLength(20)]
         public string MaSinhVien { get; set; }
 
-        [Required]
         [StringLength(20)]
         public string HoDem { get; set; }
 
@@ -26,13 +24,14 @@ namespace QLSinhVienProject.DAL
         [Column(TypeName = "date")]
         public DateTime? NgaySinh { get; set; }
 
-        [StringLength(250)]
+        [StringLength(50)]
         public string NoiSinh { get; set; }
 
         public byte? GioiTinh { get; set; }
 
         public long? IDLop { get; set; }
 
+        [StringLength(250)]
         public string QueQuan { get; set; }
 
         public virtual LopHoc LopHoc { get; set; }

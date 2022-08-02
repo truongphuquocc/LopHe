@@ -17,9 +17,6 @@ namespace QLSinhVienProject.DAL
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<SinhVien>()
-                .Property(e => e.ID)
-                .IsUnicode(false);
         }
     }
 }

@@ -100,4 +100,14 @@
     <SoDienThoai>0368197317</SoDienThoai>
     <Email>quoct@gmail.com</Email>
   </SinhVien>
+  <SinhVien MaSinhVien="19T1021301">
+    <HoDem>Trương Văn A</HoDem>
+    <Ten>Quốc</Ten>
+    <NgaySinh>7/31/2022 8:11:52 PM</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <NoiSinh>Quảng Trị</NoiSinh>
+    <QueQuan>Đắk Nông</QueQuan>
+    <SoDienThoai>0368197317</SoDienThoai>
+    <Email>Quoct324@gmail.com</Email>
+  </SinhVien>
 </Students>
